@@ -1,5 +1,8 @@
 {
     "Teplota": "9.0",
     "Vlhkost": "9.9",
-    "Hodnota": "8.2"
+    "Hodnota": "8.2",
+    "Teplota2": "0.0",
+    "Vlhkost2": "0.9",
+    "Hodnota2": "-0.8"
 }
